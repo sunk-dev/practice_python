@@ -1,2 +1,2 @@
-# practice_python
-파이썬 연습 보관함
+# python note
+파이썬 개념정리
