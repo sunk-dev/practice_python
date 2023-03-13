@@ -1,0 +1,15 @@
+# 41
+import random as r
+a=[0,1]
+coin=r.choice(a)
+if coin==1:
+    print(coin)
+    print('tail')
+else:
+    print(coin)
+    print('head')
+# 리스트
+a=[1,2,3]
+#리스트를 추가하는 extend
+a.extend([1,2,3,4])
+print(a)
